@@ -56,11 +56,11 @@ The Quiz Application offers an interactive and dynamic experience for users to e
    npm run dev
    ```
 
-5. Open [http://localhost:5173/climate_awareness_quiz/](http://localhost:5173/climate_awareness_quiz/) to view it in the browser.
+5. Open [http://localhost:5173/](http://localhost:5173/) to view it in the browser.
 
 ## Try the Quiz!
 
-Try the [Quiz](https://stampcodes.github.io/climate_awareness_quiz/) online to see how it works.
+Try the [Quiz](https://climate-awareness-quiz.vercel.app/) online to see how it works.
 
 ## License
 
